@@ -1,0 +1,24 @@
+Okay, let's create those image prompts for your Luca-inspired French AI Act explainer! We'll focus on content, color, and mood, letting the AI handle the specific cartoon style.
+
+Here are the prompts for the key scenes:
+
+**Scene 1 (0-6 seconds):**
+*   **Prompt:** A young man with dark, slightly messy hair and glasses (our founder), looking stressed, sits at a small round table outside a Parisian cafe with a red awning. On the table: an open laptop displaying complex code graphs, a half-eaten baguette, a small plate with cartoon escargot shells, and a glass of red wine. Morning light, warm tones but a slightly anxious mood on the character's face.
+
+**Scene 2 (6-12 seconds):**
+*   **Prompt:** The founder character looks overwhelmed, almost buried under a giant, teetering stack of scrolling documents labeled with EU flag symbols and complex mathematical formulas (∫, Σ, ∂). Papers spill onto the floor around him. Colors are slightly muted, blues and greys dominating the paper mountain, emphasizing the burden.
+
+**Scene 3 (12-18 seconds):**
+*   **Prompt:** A split-screen visual. Left side: Colorful, simple cartoon icons representing diverse students (different simple shapes/colors). Right side: A dynamic dashboard graph showing performance lines for different groups; one line dips low, triggering a flashing red alert symbol next to a "Bias Detected!" label. Techy blue background with bright data visualization colors.
+
+**Scene 4 (18-24 seconds):**
+*   **Prompt:** A friendly, slightly older cartoon character representing a teacher (perhaps wearing a beret) looks curiously at a transparent screen showing a simple flowchart of the AI's decision path for grading a quiz question. The founder character stands beside it, pointing helpfully at an 'Explain' button on the screen. Bright, clear, educational colors like light blues and greens.
+
+**Scene 5 (24-30 seconds):**
+*   **Prompt:** The founder character looks worriedly at two things simultaneously: On one side, a large, official-looking contract document being handed over by a shadowy cartoon figure, with tiny hidden trap symbols (like small warning signs) in the fine print. On the other side, a cartoon French *gendarme* character playfully peers through a magnifying glass directly at the founder's laptop screen. Slightly dramatic lighting with some shadows.
+
+**Scene 6 (30-36 seconds):**
+*   **Prompt:** A giant, cartoonish bag of money labeled "€35M!" sits ominously on one side. On the other side, a bright, positive-looking checklist appears with three simple icons: [1] An official stamp/certificate, [2] A glowing lightbulb inside a head silhouette, [3] A simple list/registry icon. Strong contrast between the dark/imposing money bag and the bright/hopeful checklist.
+
+**Scene 7 (36-42 seconds):**
+*   **Prompt:** The founder character, now looking confident and relieved, smiles and raises his glass of red wine in a toast. Behind him is a cheerful, sunny cartoon depiction of the Paris skyline, with a stylized Eiffel Tower prominent. Warm, optimistic lighting and bright colors. Maybe a tiny cartoon frog leg winks from a plate in the corner.

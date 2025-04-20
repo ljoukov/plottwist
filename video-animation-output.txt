@@ -1,0 +1,16 @@
+Okay, here are the video generation prompts for the remaining scenes (3-7):
+
+**Video Generation Prompt for Scene 3:**
+"On the split-screen: The performance lines on the dashboard graph animate, showing the dip clearly. The red 'Bias Detected!' alert symbol pulses and flashes insistently. On the left side, the simple student icons subtly shift or wiggle slightly, representing the diverse group being analyzed."
+
+**Video Generation Prompt for Scene 4:**
+"The teacher character nods slowly, looking intently at the transparent screen. The founder character animates his pointing gesture, tracing the simple flowchart path on the screen with his finger. As he points, elements of the flowchart briefly glow or highlight to emphasize the explanation."
+
+**Video Generation Prompt for Scene 5:**
+"The founder character's eyes dart nervously back and forth between the shadowy figure holding the contract and the peering gendarme. He might subtly shrink back or wring his hands slightly. The gendarme's magnifying glass moves slightly, scanning across the laptop screen. The tiny trap symbols on the contract might briefly flash or shimmer."
+
+**Video Generation Prompt for Scene 6:**
+"The three checklist icons animate sequentially, appearing with a satisfying 'check' motion or sound effect simulation. As the checklist completes, it might subtly grow brighter or larger, while the ominous money bag on the other side casts a slightly deeper shadow or shrinks subtly in perceived importance."
+
+**Video Generation Prompt for Scene 7:**
+"The founder character smoothly raises his wine glass towards the camera in a cheerful 'cheers' motion, a broad, confident smile on his face. The glass catches a glint of light. Behind him, the Paris skyline has subtle movement, perhaps a sparkle effect on the Eiffel Tower or faint wisps of clouds drifting by. The tiny frog leg on the plate gives a quick, subtle wink."
