@@ -21,6 +21,8 @@
 
 ## AGI House Hackathon Project
 
+[Google AI Build Weekend (Build Day ft. Gemini 2.5 Flash)](https://app.agihouse.org/events/google-ai-weekend-day-2-20250419)
+
 ### Winner of WindSurf Prize
 
 ![image](https://github.com/user-attachments/assets/45fe92ac-e1fd-4a64-a8b7-06232e932c60)
