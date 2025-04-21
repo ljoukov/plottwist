@@ -18,3 +18,9 @@
 <img width="887" alt="image" src="https://github.com/user-attachments/assets/98a20157-ab5d-4ed2-add1-ffaeeb307393" />
 
 [Output Video](https://pixtoon-media.eviworld.com/plottwist/final-video.mp4)
+
+## AGI House Hackathon Project
+
+### Winner of WindSurf Prize
+
+![image](https://github.com/user-attachments/assets/45fe92ac-e1fd-4a64-a8b7-06232e932c60)
